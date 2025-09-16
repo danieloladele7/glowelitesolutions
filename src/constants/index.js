@@ -1,5 +1,5 @@
 import { facebook, linkedIn, whatsApp, instagram, handshake, here, ideaSharing, lightAutomation, management, toDo, ticTacToe, greenEarth} from "../assets/icons";
-import { christineBrown, stacyWhite, matthewFischer } from "../assets/images";
+import { christineBrown, stacyWhite, matthewFischer, constelWorks, wyzant, drMatthew } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -11,27 +11,27 @@ export const navLinks = [
 
 export const ourSolutions = [
     {
-        imgURL: ticTacToe,
-        label: "Strategic Integration Consulting",
-        subtext: "Discover how to seamlessly combine agritech and biotech processes to develop cutting-edge health products"
+        imgURL: lightAutomation,
+        label: "Biomedical Innovation",
+        subtext: "natural product drug discovery, bioassay development, computational biology, data analysis."
     },
     {
-        imgURL: lightAutomation     ,
-        label: "Product Development Advisory",
-        subtext: "From concept to commercialization, we guide you in creating innovative health solutions using agricultural inputs."
+        imgURL: handshake     ,
+        label: "Educational Technology",
+        subtext: "digital learning platforms, curriculum development, training tools."
     },
     {
         imgURL: greenEarth,
-        label: "Sustainability Consulting",
-        subtext: "Implement sustainable practices throughout your product sourcing, development, and distribution."
+        label: "AgriBio Solutions",
+        subtext: "biotech integration in agriculture, food security strategies, sustainability consulting."
     },
     {
         imgURL: toDo,
-        label: "Regulatory Compliance",
-        subtext: "Navigate regulatory challenges with our expertise, ensuring your natural health products meet all necessary certifications."
+        label: "Consulting Services",
+        subtext: "project management, regulatory compliance, scientific writing, grant development, capacity-building."
     },
     {
-        imgURL: handshake,
+        imgURL: ticTacToe,
         label: "Education and Training",
         subtext: "We provide education and training that links agritech and biotech industries with research to drive innovation."
     },
@@ -44,22 +44,22 @@ export const ourSolutions = [
 
 export const testimonials = [
     { 
-        imgURL: christineBrown,
-        label: "Christine Brown",
-        company: "AgriCo Company",
-        subtext: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet justo ipsum. Sed accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed porta."
+        imgURL: constelWorks,
+        label: "CEO ConstelWorks",
+        company: "ConstelWorks",
+        subtext: "Glowelite Solutions LLC brings exceptional expertise in biomedical innovation. Their team provided rigorous research support, advanced analytical insights, and delivered results that significantly strengthened our project outcomes. They are a trusted partner in scientific collaboration."
     },
     { 
-        imgURL: stacyWhite,
-        label: "Stacy White",
-        company: "AgriTech LLC",
-        subtext: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet justo ipsum. Sed accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed porta."
+        imgURL: wyzant,
+        label: "CEO Wzant Inc",
+        company: "Wyzant Inc",
+        subtext: "Partnering with Glowelite Solutions LLC on an ed-tech initiative was a game-changer. They combined innovative digital tools with practical training solutions, empowering our team and expanding our impact. Their vision for integrating science, technology, and education is inspiring."
     },
     { 
-        imgURL: matthewFischer,
-        label: "Matthew Fischer",
-        company: "BioTech LLC",
-        subtext: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet justo ipsum. Sed accumsan quam vitae est varius fringilla. Pellentesque placerat vestibulum lorem sed porta."
+        imgURL: drMatthew,
+        label: "Dr. Matthew",
+        company: "Matrosy LLC",
+        subtext: "The consulting services we received from Glowelite Solutions LLC were transformative. Their strategic guidance in project management and regulatory compliance helped us streamline operations and achieve measurable success. Their professionalism and attention to detail are unmatched."
     },
 ];
 

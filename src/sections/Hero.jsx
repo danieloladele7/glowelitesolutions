@@ -13,11 +13,11 @@ const Hero = () => {
           >
             GLOWELITE SOLUTION LLC
           </h1>
-          <h2 className="text-xl font-afacad font-semibold text-subHeaderTxt max-lg:text-center lg:tracking-wide">Your partner in agritech and biotechnology innovation</h2>
+          <h2 className="text-xl font-afacad font-semibold text-subHeaderTxt max-lg:text-center lg:tracking-wide">Innovating at the intersection of biomedical science, education, and sustainability</h2>
           <p
             className="body-text py-4 max-lg:max-w-xl max-lg:text-center"
           >
-            Unlock the full potential of your agricultural and biomedical projects with GLOWELITE SOLUTION LLC—where innovation meets sustainability!
+            We are dedicated to advancing biomedical innovation, educational technology, and sustainable AgriBio solutions. Our mission is to transform natural product discoveries into life-changing therapies, deliver cutting-edge consulting services, and empower communities through digital learning, scientific research, and capacity-building.
           </p>
           <a
             href="#about-us"
