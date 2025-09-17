@@ -4,8 +4,8 @@ import mainLogo from './main-logo.svg'
 import aboutUs from './about-us.png'
 import ceo from './ceo.jpg'
 import hero from './hero.png'
-import constelWorks from './constel-works.webp'
-import wyzant from './Wyzant_Logo.jpg'
+import miriam from './miriam.png'
+import tony from './anthony.png'
 import drMatthew from './Dr.Matthew.png'
 import research from './research-lab.jpg'
 import conf from './conference.jpg'
@@ -20,9 +20,9 @@ export {
     aboutUs,
     ceo,
     hero,
-    wyzant,
+    tony,
     drMatthew,
-    constelWorks,
+    miriam,
     research,
     conf,
     christineBrown,

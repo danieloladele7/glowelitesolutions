@@ -1,5 +1,5 @@
 import { facebook, linkedIn, whatsApp, instagram, handshake, here, ideaSharing, lightAutomation, management, toDo, ticTacToe, greenEarth} from "../assets/icons";
-import { christineBrown, stacyWhite, matthewFischer, constelWorks, wyzant, drMatthew } from "../assets/images";
+import { drMatthew, miriam, tony } from "../assets/images";
 
 export const navLinks = [
     { href: "#home", label: "Home" },
@@ -44,20 +44,20 @@ export const ourSolutions = [
 
 export const testimonials = [
     { 
-        imgURL: constelWorks,
-        label: "CEO ConstelWorks",
-        company: "ConstelWorks",
+        imgURL: miriam,
+        label: "Dr. Miriam, Head of Biomedical Projects",
+        company: "BioNova Research",
         subtext: "Glowelite Solutions LLC brings exceptional expertise in biomedical innovation. Their team provided rigorous research support, advanced analytical insights, and delivered results that significantly strengthened our project outcomes. They are a trusted partner in scientific collaboration."
     },
     { 
-        imgURL: wyzant,
-        label: "CEO Wzant Inc",
-        company: "Wyzant Inc",
+        imgURL: tony,
+        label: "Mr. Anthony, Director EduTech Innovation",
+        company: "EduTech Bridge Int.",
         subtext: "Partnering with Glowelite Solutions LLC on an ed-tech initiative was a game-changer. They combined innovative digital tools with practical training solutions, empowering our team and expanding our impact. Their vision for integrating science, technology, and education is inspiring."
     },
     { 
         imgURL: drMatthew,
-        label: "Dr. Matthew",
+        label: "Dr. Matthew, CEO Matrosy LLC",
         company: "Matrosy LLC",
         subtext: "The consulting services we received from Glowelite Solutions LLC were transformative. Their strategic guidance in project management and regulatory compliance helped us streamline operations and achieve measurable success. Their professionalism and attention to detail are unmatched."
     },
